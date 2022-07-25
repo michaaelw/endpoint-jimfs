@@ -9,14 +9,14 @@ Directory Tree
 
 ### Getting Started
 #### Prerequisites
-To run you need Java 17 on your machine.
+To run, you need Java 17 on your machine.
 
 The best way to do this if you're using a macOS is to run the following command:
 ```shell
 curl -s "https://get.sdkman.io" | bash
 ```
 
-Upon successful installation of sdkman you can install java:
+Upon successful installation of sdkman, you can install java:
 ```shell
 sdk install java 17.0.4-amzn
 ```
@@ -26,7 +26,7 @@ Now, make this java SDK version your default:
 sdk default java 17.0.4-amzn
 ```
 
-You can confirm that you have the right version of java on your path with the following command:
+You can confirm that you have the correct version of java on your path with the following command:
 ```shell
 java -version
 ```
@@ -45,5 +45,5 @@ Go to the folder in which the resides and run the following command:
 java -jar endpoint-jimfs-1.0.jar
 ```
 
-To end the session you can type **quit** or **exit**
+To end the session, you can type **quit** or **exit**
 
