@@ -38,7 +38,7 @@ OpenJDK Runtime Environment Corretto-17.0.4.8.1 (build 17.0.4+8-LTS)
 OpenJDK 64-Bit Server VM Corretto-17.0.4.8.1 (build 17.0.4+8-LTS, mixed mode, sharing)
 ```
 
-Download the challenge executable jar from the [bin](https://github.com/michaaelw/endpoint-jimfs) directory:
+Download the challenge executable jar from the [bin](https://github.com/michaaelw/endpoint-jimfs/tree/master/bin) directory:
 
 Go to the folder in which the resides and run the following command:
 ```shell
